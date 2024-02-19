@@ -1,1 +1,1 @@
-Hello! I'm a Linux user (NixOS) interested in fucking around with computers.
+Hello! I'm a Linux user (NixOS) who likes in fucking around with computers.
